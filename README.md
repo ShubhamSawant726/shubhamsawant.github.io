@@ -14,7 +14,7 @@ I’m also a BIS Club Design Member in my college.My goal is to build clean, use
 - GitHub Pages (for hosting)
 
 🚀 Website Link
-👉 [https://shubhamsawant.github.io](https://shubhamsawant.github.io)
+👉 [https://shubhamsawant.github.io](https://shubhamsawant726.github.io)
 
 🖼️ Features
 - Simple and elegant responsive design 
